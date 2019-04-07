@@ -1,0 +1,8 @@
+.menuItem {
+    padding: 0 !important
+}
+.menuItem li{
+    font-size: 25px; 
+    list-style: none;
+    /* border-bottom: 1px solid #ccc; */
+}
